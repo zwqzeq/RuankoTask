@@ -1,0 +1,20 @@
+﻿Build started 2017/3/26/星期日 18:08:57.
+     1>Project "H:\软酷网作业\第五次作业学生信息管理系统1stuManagement\stuManagement\stuManagement.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\stuManagement.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\stuManagement.unsuccessfulbuild".
+         Touching "Debug\stuManagement.lastbuildstate".
+     1>Done Building Project "H:\软酷网作业\第五次作业学生信息管理系统1stuManagement\stuManagement\stuManagement.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.09

@@ -1,0 +1,20 @@
+﻿Build started 2016/12/1 23:44:59.
+     1>Project "E:\作业\郑文庆第三次作业\zwq3_2.c\zwq3_2.c\zwq3_2.c.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\zwq3_2.c.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\zwq3_2.c.unsuccessfulbuild".
+         Touching "Debug\zwq3_2.c.lastbuildstate".
+     1>Done Building Project "E:\作业\郑文庆第三次作业\zwq3_2.c\zwq3_2.c\zwq3_2.c.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.16
